@@ -1,0 +1,9 @@
+com/zpmc/containerswap/domain/port/CacheStore.class
+com/zpmc/containerswap/domain/model/Container.class
+com/zpmc/containerswap/domain/port/SwapStore.class
+com/zpmc/containerswap/presentation/ContainerSwapApplication.class
+com/zpmc/containerswap/infrastructure/cache/InMemoryCache.class
+com/zpmc/containerswap/domain/port/SwapPolicy.class
+com/zpmc/containerswap/presentation/ContainerController.class
+com/zpmc/containerswap/infrastructure/swap/DiskSwapStore.class
+com/zpmc/containerswap/application/ContainerService.class
