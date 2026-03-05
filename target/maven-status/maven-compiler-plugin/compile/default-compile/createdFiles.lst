@@ -6,4 +6,6 @@ com/zpmc/containerswap/infrastructure/cache/InMemoryCache.class
 com/zpmc/containerswap/domain/port/SwapPolicy.class
 com/zpmc/containerswap/presentation/ContainerController.class
 com/zpmc/containerswap/infrastructure/swap/DiskSwapStore.class
+com/zpmc/containerswap/presentation/CorsConfig.class
 com/zpmc/containerswap/application/ContainerService.class
+com/zpmc/containerswap/presentation/CorsConfig$1.class

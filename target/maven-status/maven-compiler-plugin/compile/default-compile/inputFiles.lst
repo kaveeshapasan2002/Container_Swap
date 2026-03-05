@@ -4,6 +4,7 @@
 /Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/infrastructure/swap/DiskSwapStore.java
 /Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/domain/port/CacheStore.java
 /Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/presentation/ContainerController.java
+/Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/presentation/CorsConfig.java
 /Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/presentation/ContainerSwapApplication.java
 /Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/domain/port/SwapPolicy.java
 /Users/kaveeshaathukorala/blog-api/Container_Swap/src/main/java/com/zpmc/containerswap/application/ContainerService.java
